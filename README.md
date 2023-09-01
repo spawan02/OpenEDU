@@ -14,6 +14,7 @@
 - [Study Buddy](https://www.youtube.com/user/zacklovemartin)
 - [Neso Academy](https://www.youtube.com/user/nesoacademy)
 - [Azure Hackbook](https://arkodyuti.github.io/hackathon-hackbook/)
+- [Gate Smashers](https://www.youtube.com/channel/UCJihyK0A38SZ6SdJirEdIOw)
 
 ...*feel free to add more to the list!* :100:
 
